@@ -1,4 +1,4 @@
-# script permettant de démarrer le serveur mkdocs pnsi
+# script permettant de démarrer le serveur mkdocs ppc
 
 #1. Activation de l'environnement virtuel 
 source /Users/raoul/.virtualenvs/mkDocs_env/bin/activate
