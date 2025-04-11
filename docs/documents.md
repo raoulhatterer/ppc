@@ -20,6 +20,15 @@
     - [TP3 Géométrie des molécules et polarité](TP3  géométrie des molécules et polarité.pdf){:target="_blank"}
     - [Prise en main de jmol](data/prise en main de jmol.pdf){:target="_blank"}
     - [Télécharger Jmol](http://sourceforge.net/projects/jmol/files/latest/download?source=files){:target="_blank"}
+    ??? abstract "Exercices du livre (pages 89 à 96)"
+        ![page 89](data/p89.png)
+        ![page 90](data/p90.png)
+        ![page 91](data/p91.png)
+        ![page 92](data/p92.png)
+        ![page 93](data/p93.png)
+        ![page 94](data/p94.png)
+        ![page 95](data/p95.png)
+        ![page 96](data/p96.png)        
     
 ??? abstract "Chapitre 3: Cohésion et dissolution des solides"
 
