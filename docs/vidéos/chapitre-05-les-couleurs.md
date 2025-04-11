@@ -1,4 +1,4 @@
-# Chapitre 5 les couleurs
+# Chapitre 5: Les couleurs
 
 
 ## 1. Synthèse additive et soustractive
