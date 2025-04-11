@@ -17,7 +17,7 @@
     
 ??? abstract "Chapitre 2: De la structure à la polarité d'une entité"
     - [Chapitre 2](data/Chapitre II cours élèves.pdf){:target="_blank"}
-    - [TP3 Géométrie des molécules et polarité](TP3  géométrie des molécules et polarité.pdf){:target="_blank"}
+    - [TP3 Géométrie des molécules et polarité](data/TP3  géométrie des molécules et polarité.pdf){:target="_blank"}
     - [Prise en main de jmol](data/prise en main de jmol.pdf){:target="_blank"}
     - [Télécharger Jmol](http://sourceforge.net/projects/jmol/files/latest/download?source=files){:target="_blank"}
     ??? abstract "Exercices du livre (pages 89 à 96)"
