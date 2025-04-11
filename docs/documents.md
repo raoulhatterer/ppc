@@ -1,10 +1,11 @@
 # Documents
 
+{# écrire `cache/` ou `data/` pour cacher ou non un fichier #} 
 
 ??? abstract "Chapitre 1: Composition d'un système chimique"
     - [Chapitre 1](data/Chapitre I cours élèves 1eSPE.pdf){:target="_blank"}
     - [TP1 Préparation d'une solution colorée](data/TP1 préparation solution colorée élève.pdf){:target="_blank"}
-- [TP1 protocole dilution à distribuer après proposition]{#(data/TP1 protocole dilution à distribuer.pdf){:target="_blank"}#}
+    - [TP1 protocole dilution à distribuer après proposition](cache/TP1 protocole dilution à distribuer.pdf){:target="_blank"}
     - [TP2 Dosage spectrophotométrique du dakin - Loi de Beer Lambert](data/TP2 Dosage spectro dakin élève 2021.pdf){:target="_blank"}    
 
     
@@ -21,7 +22,7 @@
     
 ??? abstract "Chapitre 2: De la structure à la polarité d'une entité"
     - [Chapitre 2](data/Chapitre II cours élèves.pdf){:target="_blank"}
-    - [TP3  géométrie des molécules et polarité (préparation)](TP3  géométrie des molécules et polarité (préparation).pdf){:target="_blank"}
+    - [TP3  géométrie des molécules et polarité (préparation)](data/TP3  géométrie des molécules et polarité (préparation).pdf){:target="_blank"}
     - [TP3 Géométrie des molécules et polarité](data/TP3  géométrie des molécules et polarité.pdf){:target="_blank"}
     - [Prise en main de jmol](data/prise en main de jmol.pdf){:target="_blank"}
     - [Télécharger Jmol](http://sourceforge.net/projects/jmol/files/latest/download?source=files){:target="_blank"}
