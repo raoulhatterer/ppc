@@ -16,7 +16,7 @@
 
     
 ??? abstract "Chapitre 2: De la structure à la polarité d'une entité"
-
+    - [chapitre 2](data/Chapitre II cours élèves.pdf){:target="_blank"}
  
 ??? abstract "Chapitre 3: Cohésion et dissolution des solides"
 
