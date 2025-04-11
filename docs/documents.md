@@ -31,7 +31,7 @@
         ![page 96](data/p96.png)        
     
 ??? abstract "Chapitre 3: Cohésion et dissolution des solides"
-
+    - [Chapitre III cours élèves.pdf](Chapitre III cours élèves.pdf){:target="_blank"}
  
 ??? abstract "Chapitre 4: Image et lentille"
 
