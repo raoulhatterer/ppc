@@ -4,8 +4,9 @@
 ??? abstract "Chapitre 1: Composition d'un système chimique"
     - [Chapitre 1](data/Chapitre I cours élèves 1eSPE.pdf){:target="_blank"}
     - [TP1 Préparation d'une solution colorée](data/TP1 préparation solution colorée élève.pdf){:target="_blank"}
+- [TP1 protocole dilution à distribuer après proposition]{#(data/TP1 protocole dilution à distribuer.pdf){:target="_blank"}#}
     - [TP2 Dosage spectrophotométrique du dakin - Loi de Beer Lambert](data/TP2 Dosage spectro dakin élève 2021.pdf){:target="_blank"}    
-    - [TP1 protocole dilution à distribuer après proposition](data/TP1 protocole dilution à distribuer.pdf){:target="_blank"}
+
     
     
     ??? abstract "Exercices du livre (pages 24 à 30)"
