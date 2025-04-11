@@ -3,7 +3,7 @@
 
 ??? abstract "Chapitre 1: Composition d'un système chimique"
     - [Chapitre 1](data/Chapitre I cours élèves 1eSPE.pdf){:target="_blank"}
-    - [TP1 préparation d'une solution colorée](data/TP1 préparation solution colorée élève.pdf){:target="_blank"}
+    - [TP1 Préparation d'une solution colorée](data/TP1 préparation solution colorée élève.pdf){:target="_blank"}
     - [TP2 Dosage spectrophotométrique du dakin - Loi de Beer Lambert](data/TP2 Dosage spectro dakin élève 2021.pdf){:target="_blank"}    
     ??? abstract "Exercices du livre (pages 24 à 30)"
         ![page 24](data/p24.png)
@@ -17,7 +17,10 @@
     
 ??? abstract "Chapitre 2: De la structure à la polarité d'une entité"
     - [Chapitre 2](data/Chapitre II cours élèves.pdf){:target="_blank"}
+    - [TP3 Géométrie des molécules et polarité](TP3  géométrie des molécules et polarité.pdf){:target="_blank"}
     - [Prise en main de jmol](prise en main de jmol.pdf){:target="_blank"}
+    - [Télécharger Jmol](http://sourceforge.net/projects/jmol/files/latest/download?source=files){:target="_blank"}
+    
 ??? abstract "Chapitre 3: Cohésion et dissolution des solides"
 
  
