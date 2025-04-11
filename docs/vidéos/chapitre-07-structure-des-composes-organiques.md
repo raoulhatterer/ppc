@@ -6,10 +6,15 @@
 
 ## 2. Convertir une formule semi-développée en formule développée
 
+### Capsule 1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ngQ1GKosgs0?si=M6kv8KuwSkQ6PahP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+### Capsule 2
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eq7KWr6fU3c?si=rLHIlgBzZKZG5OMp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+### Capsule 3
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ha0tdqqhFrI?si=iEUOiL3jsXyKHLaJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 3. Correction exercice formule brute, semi-développée et développée
