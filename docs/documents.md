@@ -5,7 +5,7 @@
 ??? abstract "Chapitre 1: Composition d'un système chimique"
     - [Chapitre 1](data/Chapitre I cours élèves 1eSPE.pdf){:target="_blank"}
     - [TP1 Préparation d'une solution colorée](data/TP1 préparation solution colorée élève.pdf){:target="_blank"}
-    - [TP1 protocole dilution à distribuer après proposition](cache/TP1 protocole dilution à distribuer.pdf){:target="_blank"}
+    - [TP1 protocole dilution à distribuer après proposition (édit)](cache/TP1 protocole dilution à distribuer.pdf){:target="_blank"}
     - [TP2 Dosage spectrophotométrique du dakin - Loi de Beer Lambert](data/TP2 Dosage spectro dakin élève 2021.pdf){:target="_blank"}    
 
     
@@ -37,8 +37,18 @@
         ![page 96](data/p96.png)        
     
 ??? abstract "Chapitre 3: Cohésion et dissolution des solides"
-    - [Chapitre III cours élèves.pdf](data/Chapitre III cours élèves.pdf){:target="_blank"}
- 
+    - [Chapitre 3](data/Chapitre III cours élèves.pdf){:target="_blank"}
+    - ![TP4 Solubilite élève](TP4 Solubilite élève.pdf){:target="_blank"}
+    - ![TP5 Les propriétés des savons (préparation)](TP5 Les propriétés des savons (préparation).pdf){:target="_blank"}
+    - ![TP5 Les propriétés des savons énoncé](TP5 Les propriétés des savons énoncé.pdf){:target="_blank"}
+    ??? abstract "Exercices du livre (pages 112 à 116)" 
+        ![page 112](data/p112.png)
+        ![page 113](data/p113.png)
+        ![page 114](data/p114.png)
+        ![page 115](data/p115.png)
+        ![page 116](data/p116.png)
+
+    
 ??? abstract "Chapitre 4: Image et lentille"
 
  
