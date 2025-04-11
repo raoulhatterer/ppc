@@ -3,7 +3,16 @@
 
 ??? abstract "Chapitre 1: Composition d'un système chimique"
     - [chapitre 1](data/Chapitre I cours élèves 1eSPE.pdf){:target="_blank"}
- 
+    ??? abstract "Exercices du livre (pages 24 à 30)"
+        ![page 24](data/p24.jpg)
+        ![page 25](data/p25.jpg)
+        ![page 25](data/p25.jpg)
+        ![page 26](data/p26.jpg)
+        ![page 28](data/p28.jpg)
+        ![page 29](data/p29.jpg)
+        ![page 30](data/p30.jpg)
+
+    
 ??? abstract "Chapitre 2: De la structure à la polarité d'une entité"
 
  
