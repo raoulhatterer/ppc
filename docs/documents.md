@@ -4,6 +4,7 @@
 ??? abstract "Chapitre 1: Composition d'un système chimique"
     - [chapitre 1](data/Chapitre I cours élèves 1eSPE.pdf){:target="_blank"}
     - [TP1 préparation d'une solution colorée](data/TP1 préparation solution colorée élève.pdf){:target="_blank"}
+    - [TP2 Dosage spectrophotométrique du dakin - Loi de Beer Lambert](data/TP2 Dosage spectro dakin élève 2021.pdf){:target="_blank"}    
     ??? abstract "Exercices du livre (pages 24 à 30)"
         ![page 24](data/p24.png)
         ![page 25](data/p25.png)
