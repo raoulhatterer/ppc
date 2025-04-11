@@ -1,4 +1,4 @@
-# Chapitre 9 : Champs gravitationnels et électriques
+# Chapitre 9: Champs gravitationnels et électriques
 
 
 
