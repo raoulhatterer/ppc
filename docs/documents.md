@@ -50,7 +50,7 @@
 
     
 ??? abstract "Chapitre 4: Image et lentille"
-
+    - [Chapitre 4](data/Chapitre IV Cours Lentilles images élèves.pdf){:target="_blank"}
  
 ??? abstract "Chapitre 5: Couleur d'un objet"
 
