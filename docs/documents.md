@@ -2,7 +2,7 @@
 
 
 ??? abstract "Chapitre 1: Composition d'un système chimique"
-
+    ![chapitre 1](data/Chapitre I cours élèves 1eSPE.pdf)
  
 ??? abstract "Chapitre 2: De la structure à la polarité d'une entité"
 
