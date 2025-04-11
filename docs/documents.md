@@ -38,9 +38,9 @@
     
 ??? abstract "Chapitre 3: Cohésion et dissolution des solides"
     - [Chapitre 3](data/Chapitre III cours élèves.pdf){:target="_blank"}
-    - ![TP4 Solubilite élève](data/TP4 Solubilite élève.pdf){:target="_blank"}
-    - ![TP5 Les propriétés des savons (préparation)](data/TP5 Les propriétés des savons (préparation).pdf){:target="_blank"}
-    - ![TP5 Les propriétés des savons énoncé](data/TP5 Les propriétés des savons énoncé.pdf){:target="_blank"}
+    - [TP4 Solubilite élève](data/TP4 Solubilite élève.pdf){:target="_blank"}
+    - [TP5 Les propriétés des savons (préparation)](data/TP5 Les propriétés des savons (préparation).pdf){:target="_blank"}
+    - [TP5 Les propriétés des savons énoncé](data/TP5 Les propriétés des savons énoncé.pdf){:target="_blank"}
     ??? abstract "Exercices du livre (pages 112 à 116)" 
         ![page 112](data/p112.png)
         ![page 113](data/p113.png)
