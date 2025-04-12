@@ -87,7 +87,7 @@
  
 ??? abstract "Chapitre 10: Mouvement"
     - [📚Chapitre X](data/Chapitre X cours mouvements élèves.pdf){:target="_blank"}
-    - [⚛️TP14 Mouvements](data/TP14  Mouvement élèves.pdf){:target="_blank"}    
+    - [⚛️TP14 Mouvements](data/TP14 Mouvement élèves.pdf){:target="_blank"}    
     
 ??? abstract "Chapitre 11: Énergie mécanique"
     - [📚Chapitre XI](data/Chapitre XI cours EmEcEpp élèves.pdf){:target="_blank"}
