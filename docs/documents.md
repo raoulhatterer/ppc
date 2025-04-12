@@ -1,5 +1,12 @@
 # Documents
 
+
+!!! warning "Consignes"
+    - Cours: Veillez à toujours avoir imprimé le chapitre suivant à l'avance ainsi lorsque l'on passera à un nouveau chapitre vous l'aurez prêt.
+    - TP: Terminez systématiquement de rédiger le dernier TP qui a eu lieu et préparez le suivant pour la prochaine séance de TP. 
+
+
+
 {# écrire `cache/` ou `data/` pour cacher ou non un fichier #} 
 
 ??? abstract "Chapitre 1: Composition d'un système chimique"
@@ -64,7 +71,9 @@
     - [TP9 La lampe à vapeur de mercure](data/TP9 Lampe Hg photon énergie élève.pdf){:target="_blank"}
  
 ??? abstract "Chapitre 7: Structure des composés organiques"
-
+    - [Chapitre VII](data/Chapitre VII cours élève.pdf){:target="_blank"}
+    - [TP10 Identification de molécules](data/TP10 Spectres IR élève.pdf){:target="_blank"}
+ 
  
 ??? abstract "Chapitre 8: Synthèse de composés organiques"
 
