@@ -47,14 +47,16 @@
 
     
 ??? abstract "Chapitre 4: Image et lentille"
-    - [Chapitre IV](data/Chapitre IV Cours Lentilles images élèves.pdf){:target="_blank"}
+    - [Chapitre IV](data/Chapitre IV cours Lentilles images élèves.pdf){:target="_blank"}
     - [Fiche méthode Atelier Scientifique pour la relation de conjugaison](data/Fiche méthode Atelier Scientifique pour la relation de conjugaison.pdf){:target="_blank"}
-    - [TP6 Relation de conjugaison](TP6 Hyperm-rel-de-conjug-élève.pdf ){:target="_blank"}
-    - [TP7 Mise au point](TP7 Mise au point élève.pdf        ){:target="_blank"}
+    - [TP6 Relation de conjugaison](data/TP6 Hyperm-rel-de-conjug-élève.pdf){:target="_blank"}
+    - [TP7 Mise au point](data/TP7 Mise au point élève.pdf){:target="_blank"}
 
 
 
 ??? abstract "Chapitre 5: Couleur d'un objet"
+    - [Chapitre V](Chapitre V cours Couleur d'un objet élève.pdf){:target="_blank"}
+    - [TP8 Synthèse couleur](data/TP8 Synthèse couleur élève.pdf){:target="_blank"}
 
  
 ??? abstract "Chapitre 6: La lumière"
