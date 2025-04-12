@@ -91,8 +91,8 @@
     
 ??? abstract "Chapitre 11: Énergie mécanique"
     - [📚Chapitre XI](data/Chapitre XI cours EmEcEpp élèves.pdf){:target="_blank"}
-    - [⚛️TP15](data/TP15 Évolution énergie mécanique élèves.pdf){:target="_blank"}    
-    - [⚛️TP16](data/TP16 Énergie cinétique élèves.pdf){:target="_blank"}        
+    - [⚛️TP15 Évolution de l'énergie mécanique](data/TP15 Évolution énergie mécanique élèves.pdf){:target="_blank"}    
+    - [⚛️TP16 Le théorème de l'énergie cinétique](data/TP16 Énergie cinétique élèves.pdf){:target="_blank"}        
     ??? abstract "Exercices du livre (pages 266 à 275)"
         ![page 266](data/p266.png)
         ![page 268](data/p268.png)
