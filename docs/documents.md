@@ -61,7 +61,7 @@
  
 ??? abstract "Chapitre 6: La lumière"
     - [Chapitre VI](data/Chapitre VI cours Photon élève.pdf){:target="_blank"}
-    - [TP9 La lampe à vapeur de mercure](TP9 Lampe Hg photon énergie élève.pdf){:target="_blank"}
+    - [TP9 La lampe à vapeur de mercure](data/TP9 Lampe Hg photon énergie élève.pdf){:target="_blank"}
  
 ??? abstract "Chapitre 7: Structure des composés organiques"
 
