@@ -86,8 +86,9 @@
     - [⚛️TP13 Champ électrique](data/TP13 Champ électrique élève.pdf){:target="_blank"}    
  
 ??? abstract "Chapitre 10: Mouvement"
-
- 
+    - [📚Chapitre X](data/Chapitre X cours mouvements élèves.pdf){:target="_blank"}
+    - [⚛️TP14](data/TP14  Mouvement élèves.pdf){:target="_blank"}    
+    
 ??? abstract "Chapitre 11: Énergie mécanique"
 
  
