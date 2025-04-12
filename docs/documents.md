@@ -102,6 +102,10 @@
 
  
 ??? abstract "Chapitre 12: Oxydoréduction et avancement"
+    - [📚Chapitre XII](data/Chapitre XII redox élèves.pdf){:target="_blank"}
+    - [⚛️TP17 Les réactions d'oxydoréduction](data/TP17 Redox  élèves.pdf){:target="_blank"}    
+    - [⚛️TP17bis D’autres réactions d'oxydoréduction](data/TP17 bis Réactions redox élèves.pdf){:target="_blank"}    
+    - [⚛️TP18 Avancement](data/TP18 Avancement élèves.pdf){:target="_blank"}        
 
  
 ??? abstract "Chapitre 13: Avancement et titrage"
