@@ -1,7 +1,7 @@
 # Documents
 
 
-!!! warning "Consignes"
+!!! success "Consignes"
     - Cours: Veillez à toujours avoir imprimé le chapitre suivant à l'avance ainsi lorsque l'on passera à un nouveau chapitre vous l'aurez prêt.
     - TP: Terminez systématiquement de rédiger le dernier TP qui a eu lieu et préparez le suivant pour la prochaine séance de TP. 
 
@@ -76,8 +76,10 @@
  
  
 ??? abstract "Chapitre 8: Synthèse de composés organiques"
-
- 
+    - [Chapitre VIII](data/Chapitre VIII cours élèves.pdf){:target="_blank"}
+    - [TP11 Synthèse du paracetamol](data/TP11 Synthèse du paracetamol élève.pdf      ){:target="_blank"}
+    - [TP12 Identification du paracetamol](data/TP12 Identification du paracetamol élève.pdf){:target="_blank"}
+    
 ??? abstract "Chapitre 9: Interactions gravitationnelles et électriques"
 
  
