@@ -81,7 +81,9 @@
     - [TP12 Identification du paracetamol](data/TP12 Identification du paracetamol élève.pdf){:target="_blank"}
     
 ??? abstract "Chapitre 9: Interactions gravitationnelles et électriques"
-
+    - [Chapitre IX](data/Chapitre IX cours champs élève.pdf){:target="_blank"}
+    - [Activité documentaire sur la notion de champs](data/Chapitre IX AD intro Champs.pdf){:target="_blank"}
+    - [TP13 Champ électrique](data/TP13 Champ électrique élève.pdf){:target="_blank"}    
  
 ??? abstract "Chapitre 10: Mouvement"
 
