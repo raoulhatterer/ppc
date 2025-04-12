@@ -104,7 +104,7 @@
 ??? abstract "Chapitre 12: Oxydoréduction et avancement"
     - [📚Chapitre XII](data/Chapitre XII redox élèves.pdf){:target="_blank"}
     - [⚛️TP17 Les réactions d'oxydoréduction](data/TP17 Redox  élèves.pdf){:target="_blank"}    
-    - [⚛️TP17bis D’autres réactions d'oxydoréduction](data/TP17 bis Réactions redox élèves.pdf){:target="_blank"}    
+    - [⚛️TP17 bis D’autres réactions d'oxydoréduction](data/TP17bis Réactions redox élèves.pdf){:target="_blank"}    
     - [⚛️TP18 Avancement](data/TP18 Avancement élèves.pdf){:target="_blank"}        
 
  
@@ -121,8 +121,9 @@
 
  
 ??? abstract "Chapitre 15: Les ondes"
+    - [📚Chapitre XV](data/Chapitre XV cours ondes élèves.pdf){:target="_blank"}
+    - [⚛️TP22](data/TP22 Ondes mécaniques ultrasons.pdf){:target="_blank"}    
 
- 
 ??? abstract "Chapitre 16: Pression"
 
  
