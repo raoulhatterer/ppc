@@ -87,9 +87,18 @@
  
 ??? abstract "Chapitre 10: Mouvement"
     - [📚Chapitre X](data/Chapitre X cours mouvements élèves.pdf){:target="_blank"}
-    - [⚛️TP14](data/TP14  Mouvement élèves.pdf){:target="_blank"}    
+    - [⚛️TP14 Mouvements](data/TP14  Mouvement élèves.pdf){:target="_blank"}    
     
 ??? abstract "Chapitre 11: Énergie mécanique"
+    - [📚Chapitre XI](data/Chapitre XI cours EmEcEpp élèves.pdf){:target="_blank"}
+    - [⚛️TP15](data/TP15 Évolution énergie mécanique élèves.pdf){:target="_blank"}    
+    - [⚛️TP16](data/TP16 Énergie cinétique élèves.pdf){:target="_blank"}        
+    ??? abstract "Exercices du livre (pages 266 à 275)"
+        ![page 266](data/p266.png)
+        ![page 268](data/p268.png)
+        ![page 270](data/p270.png)
+        ![page 272](data/p272.png)
+        ![page 274](data/p274.png)
 
  
 ??? abstract "Chapitre 12: Oxydoréduction et avancement"
