@@ -14,7 +14,7 @@
     - [⚛️TP1 Préparation d'une solution colorée](data/TP01 Préparation solution colorée élève.pdf){:target="_blank"}
     - [⚛️TP1 Protocole de dilution à distribuer après proposition (édit)](cache/TP01 Protocole dilution à distribuer.pdf){:target="_blank"}
     - [⚛️TP2 Dosage spectrophotométrique du dakin - Loi de Beer Lambert](data/TP02 Dosage spectro dakin élève.pdf){:target="_blank"}    
-    ??? abstract "Exercices du livre (pages 24 à 30)"
+    ??? question "Exercices du livre (pages 24 à 30)"
         ![page 24](data/p24.png)
         ![page 25](data/p25.png)
         ![page 25](data/p25.png)
@@ -30,7 +30,7 @@
     - [⚛️TP3 Géométrie des molécules et polarité](data/TP03 Géométrie des molécules et polarité.pdf){:target="_blank"}
     - [Fiche méthode Prise en main de jmol](data/prise en main de jmol.pdf){:target="_blank"}
     - [Télécharger Jmol](http://sourceforge.net/projects/jmol/files/latest/download?source=files){:target="_blank"}
-    ??? abstract "Exercices du livre (pages 89 à 96)"
+    ??? question "Exercices du livre (pages 89 à 96)"
         ![page 89](data/p89.png)
         ![page 90](data/p90.png)
         ![page 91](data/p91.png)
@@ -45,7 +45,7 @@
     - [⚛️TP4 Solubilité](data/TP04 Solubilite élève.pdf){:target="_blank"}
     - [⚛️TP5 Les propriétés des savons (préparation)](data/TP05 Les propriétés des savons (préparation).pdf){:target="_blank"}
     - [⚛️TP5 Les propriétés des savons](data/TP05 Les propriétés des savons élève.pdf){:target="_blank"}
-    ??? abstract "Exercices du livre (pages 112 à 116)" 
+    ??? question "Exercices du livre (pages 112 à 116)" 
         ![page 112](data/p112.png)
         ![page 113](data/p113.png)
         ![page 114](data/p114.png)
@@ -93,7 +93,7 @@
     - [📚Chapitre XI](data/Chapitre XI cours EmEcEpp élèves.pdf){:target="_blank"}
     - [⚛️TP15 Évolution de l'énergie mécanique](data/TP15 Évolution énergie mécanique élèves.pdf){:target="_blank"}    
     - [⚛️TP16 Le théorème de l'énergie cinétique](data/TP16 Énergie cinétique élèves.pdf){:target="_blank"}        
-    ??? abstract "Exercices du livre (pages 266 à 275)"
+    ??? question "Exercices du livre (pages 266 à 275)"
         ![page 266](data/p266.png)
         ![page 268](data/p268.png)
         ![page 270](data/p270.png)
@@ -129,7 +129,7 @@
     - [⚛️TP23 Statique des fluides](data/TP23 Statique des fluides élèves.pdf){:target="_blank"}    
     - [⚛️TP24 Loi de Mariotte (préparation)](data/TP24 Loi de Mariotte préparation élèves.pdf){:target="_blank"}    
     - [⚛️TP24 Loi de Mariotte](data/TP24 Loi de Mariotte élèves.pdf){:target="_blank"}        
-    ??? abstract "Exercices du livre (pages 204 à 210)"
+    ??? question "Exercices du livre (pages 204 à 210)"
         ![page 204](data/p204.png)
         ![page 205](data/p205.png)
         ![page 206](data/p206.png)
@@ -142,7 +142,7 @@
     - [📚Chapitre XVII](data/Chapitre XVII cours Combustions élèves.pdf){:target="_blank"}
     - [Activité d'introduction sur les combustions](data/AD Chapitre XVII Combustion1.pdf){:target="_blank"}    
     - [Combustion et oxydoréduction](data/AD Chapitre XVII Combustion2.pdf){:target="_blank"}    
-    ??? abstract "Exercices du livre (pages 164 à 166)"
+    ??? question "Exercices du livre (pages 164 à 166)"
         ![page 164](data/p164.png)
         ![page 165](data/p165.png)
         ![page 166](data/p166.png)
