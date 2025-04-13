@@ -132,8 +132,8 @@
 
 ??? abstract "Chapitre 17: Combustion"
     - [📚Chapitre XVII](data/Chapitre XVII cours Combustions élèves.pdf){:target="_blank"}
-    - [Activité documentaire sur les combustions](data/AD Chapitre XVII Combustion1.pdf){:target="_blank"}    
-    - [De l'énergie pour la cuisson](data/AD Chapitre XVII Combustion2.pdf){:target="_blank"}    
+    - [Activité d'introduction sur les combustions](data/AD Chapitre XVII Combustion1.pdf){:target="_blank"}    
+    - [Combustion et oxydoréduction](data/AD Chapitre XVII Combustion2.pdf){:target="_blank"}    
     ??? abstract "Exercices du livre (pages 164 à 166)"
         ![page 164](data/p164.png)
         ![page 165](data/p165.png)
