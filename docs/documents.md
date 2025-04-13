@@ -123,6 +123,14 @@
 ??? abstract "Chapitre 15: Les ondes"
     - [📚Chapitre XV](data/Chapitre XV cours ondes élèves.pdf){:target="_blank"}
     - [⚛️TP22 Les ultrasons](data/TP22 Ondes mécaniques ultrasons élèves.pdf){:target="_blank"}    
+    ??? question "Exercices du livre (pages 294 à 300)"
+        ![page 294](data/p294.png)
+        ![page 295](data/p295.png)
+        ![page 296](data/p296.png)
+        ![page 297](data/p297.png)
+        ![page 298](data/p298.png)
+        ![page 299](data/p299.png)
+        ![page 300](data/p300.png)
 
 ??? abstract "Chapitre 16: Pression"
     - [📚Chapitre XVI](data/Chapitre XVI cours élève.pdf){:target="_blank"}
