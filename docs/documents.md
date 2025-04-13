@@ -118,6 +118,14 @@
     - [📚Chapitre XIV](data/Chapitre XIV cours énergie électrique élèves.pdf){:target="_blank"}
     - [⚛️TP21 Modélisation d'un panneau photovoltaïque](data/TP21 Photovoltaique partie1 élèves.pdf){:target="_blank"}    
     - [⚛️TP21 bis Rendement d'un panneau photovoltaïque](data/TP21bis Photovoltaique partie2 rendement élèves.pdf){:target="_blank"}    
+    ??? question "Exercices du livre (pages 246 à 252)"
+        ![page 246](data/p246.png)
+        ![page 247](data/p247.png)
+        ![page 248](data/p248.png)
+        ![page 249](data/p249.png)
+        ![page 250](data/p250.png)
+        ![page 251](data/p251.png)
+        ![page 252](data/p252.png)
 
  
 ??? abstract "Chapitre 15: Les ondes"
