@@ -94,7 +94,7 @@
     - [⚛️TP15 Évolution de l'énergie mécanique](data/TP15 Évolution énergie mécanique élèves.pdf){:target="_blank"}    
     - [⚛️TP16 Le théorème de l'énergie cinétique](data/TP16 Énergie cinétique élèves.pdf){:target="_blank"}        
     ??? question "Exercices du livre (pages 266 à 274)"
-        ![page 266](data/p266.png)
+        ![page 266](data/p267.png)
         ![page 267](data/p267.png)        
         ![page 268](data/p268.png)
         ![page 269](data/p269.png)        
