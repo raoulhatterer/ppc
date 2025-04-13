@@ -129,6 +129,14 @@
     - [⚛️TP23 Statique des fluides](data/TP23 Statique des fluides élèves.pdf){:target="_blank"}    
     - [⚛️TP24 Loi de Mariotte (préparation)](data/TP24 Loi de Mariotte préparation élèves.pdf){:target="_blank"}    
     - [⚛️TP24 Loi de Mariotte](data/TP24 Loi de Mariotte élèves.pdf){:target="_blank"}        
+    ??? abstract "Exercices du livre (pages 204 à 210)"
+        ![page 204](data/p204.png)
+        ![page 205](data/p205.png)
+        ![page 206](data/p206.png)
+        ![page 207](data/p207.png)
+        ![page 208](data/p208.png)
+        ![page 209](data/p209.png)
+        ![page 210](data/p210.png)
 
 ??? abstract "Chapitre 17: Combustion"
     - [📚Chapitre XVII](data/Chapitre XVII cours Combustions élèves.pdf){:target="_blank"}
