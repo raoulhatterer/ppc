@@ -93,11 +93,15 @@
     - [📚Chapitre XI](data/Chapitre XI cours EmEcEpp élèves.pdf){:target="_blank"}
     - [⚛️TP15 Évolution de l'énergie mécanique](data/TP15 Évolution énergie mécanique élèves.pdf){:target="_blank"}    
     - [⚛️TP16 Le théorème de l'énergie cinétique](data/TP16 Énergie cinétique élèves.pdf){:target="_blank"}        
-    ??? question "Exercices du livre (pages 266 à 275)"
+    ??? question "Exercices du livre (pages 266 à 274)"
         ![page 266](data/p266.png)
+        ![page 267](data/p267.png)        
         ![page 268](data/p268.png)
+        ![page 269](data/p269.png)        
         ![page 270](data/p270.png)
+        ![page 271](data/p271.png)        
         ![page 272](data/p272.png)
+        ![page 273](data/p273.png)        
         ![page 274](data/p274.png)
 
  
