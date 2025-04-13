@@ -117,7 +117,7 @@
 ??? abstract "Chapitre 14: Énergie électrique"
     - [📚Chapitre XIV](data/Chapitre XIV cours énergie électrique élèves.pdf){:target="_blank"}
     - [⚛️TP21 Modélisation d'un panneau photovoltaïque](data/TP21 Photovoltaique partie1 élèves.pdf){:target="_blank"}    
-    - [⚛️TP21 bis Rendement d'un panneau photovoltaïque](data/TP21 bis Photovoltaique partie2 rendement élèves.pdf){:target="_blank"}    
+    - [⚛️TP21 bis Rendement d'un panneau photovoltaïque](data/TP21bis Photovoltaique partie2 rendement élèves.pdf){:target="_blank"}    
 
  
 ??? abstract "Chapitre 15: Les ondes"
