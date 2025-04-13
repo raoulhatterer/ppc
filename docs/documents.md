@@ -62,7 +62,7 @@
 
 
 ??? abstract "Chapitre 5: Couleur d'un objet"
-    - [📚Chapitre V](Chapitre V cours Couleur d'un objet élève.pdf){:target="_blank"}
+    - [📚Chapitre V](data/Chapitre V cours élève.pdf){:target="_blank"}
     - [⚛️TP8 Synthèse couleur](data/TP08 Synthèse couleur élève.pdf){:target="_blank"}
 
  
