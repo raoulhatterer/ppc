@@ -82,7 +82,7 @@
     
 ??? abstract "Chapitre 9: Interactions gravitationnelles et électriques"
     - [📚Chapitre IX](data/Chapitre IX cours champs élève.pdf){:target="_blank"}
-    - [Activité documentaire sur la notion de champs](data/Chapitre IX AD intro Champs.pdf){:target="_blank"}
+    - [Activité documentaire sur la notion de champs](data/AD Chapitre IX intro Champs.pdf){:target="_blank"}
     - [⚛️TP13 Champ électrique](data/TP13 Champ électrique élève.pdf){:target="_blank"}    
  
 ??? abstract "Chapitre 10: Mouvement"
@@ -122,12 +122,21 @@
  
 ??? abstract "Chapitre 15: Les ondes"
     - [📚Chapitre XV](data/Chapitre XV cours ondes élèves.pdf){:target="_blank"}
-    - [⚛️TP22](data/TP22 Ondes mécaniques ultrasons.pdf){:target="_blank"}    
+    - [⚛️TP22 Les ultrasons](data/TP22 Ondes mécaniques ultrasons élèves.pdf){:target="_blank"}    
 
 ??? abstract "Chapitre 16: Pression"
+    - [📚Chapitre XVI](data/Chapitre XVI cours élève.pdf){:target="_blank"}
+    - [⚛️TP23 Statique des fluides](data/TP23 Statique des fluides élèves.pdf){:target="_blank"}    
+    - [⚛️TP24 Loi de Mariotte (préparation)](data/TP24 Loi de Mariotte préparation élèves.pdf){:target="_blank"}    
+    - [⚛️TP24 Loi de Mariotte](data/TP24 Loi de Mariotte élèves.pdf){:target="_blank"}        
 
- 
 ??? abstract "Chapitre 17: Combustion"
+    - [📚Chapitre XVII](data/Chapitre XVII cours Combustions élèves.pdf){:target="_blank"}
+    - [Activité documentaire sur les combustions](data/AD Chapitre XVII Combustion1.pdf){:target="_blank"}    
+    - [De l'énergie pour la cuisson](data/AD Chapitre XVII Combustion2.pdf){:target="_blank"}    
+    ??? abstract "Exercices du livre (pages 164 à 166)"
+        ![page 164](data/p164.png)
+        ![page 165](data/p165.png)
+        ![page 166](data/p166.png)
 
- 
 
