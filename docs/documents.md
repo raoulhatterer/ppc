@@ -54,7 +54,7 @@
 
     
 ??? abstract "Chapitre 4: Image et lentille"
-    - [📚Chapitre IV](data/Chapitre IV cours Lentilles images élèves.pdf){:target="_blank"}
+    - [📚Chapitre IV](data/Chapitre IV cours lentilles images élèves.pdf){:target="_blank"}
     - [Fiche méthode Atelier Scientifique pour la relation de conjugaison](data/Fiche méthode Atelier Scientifique pour la relation de conjugaison.pdf){:target="_blank"}
     - [⚛️TP6 Relation de conjugaison](data/TP06 Hyperm-rel-de-conjug-élève.pdf){:target="_blank"}
     - [⚛️TP7 Mise au point](data/TP07 Mise au point élève.pdf){:target="_blank"}
