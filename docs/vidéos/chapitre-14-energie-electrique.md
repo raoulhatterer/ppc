@@ -8,6 +8,9 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ty8KU1BSG6A?si=eW8wSkRfDtB2kf5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Attention à 15:00 le sens des flèches de tension $U_L$ et $U_M$ est faux. Les flèches devraient être dans l'autre sens (c'est-à-dire en convention récepteur) pour avoir $U_G=U_L=U_M$. Le schéma à 15:00 devait être le même que celui à 16:00.
+
+
 ### Convention récepteur ou générateur
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eksX_Ennf3o?si=6cy3hQ3rK4s5vkY5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
