@@ -32,7 +32,7 @@ Attention à 15:00 le sens des flèches de tension $U_L$ et $U_M$ est faux. Les 
 
 ### Principe théorique
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H4uUZ9RrHKs?si=c8bZOEUaew6_mQLn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H4uUZ9RrHKs?si=c8bZOEUaew6_mQLn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Exemple pratique
 
@@ -40,7 +40,7 @@ Attention à 15:00 le sens des flèches de tension $U_L$ et $U_M$ est faux. Les 
 
 ## 4. Énergie électrique
 
-### Calculer l'énergie électrique 
+### Calculer l'énergie électrique
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tqzH6tfhmHs?si=jRFkW6S-JwGl-6p8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Calculer la durée
