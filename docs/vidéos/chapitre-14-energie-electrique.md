@@ -1,17 +1,17 @@
 # Chapitre 14:Énergie électrique
 
 
-## 1. Rappels sur les notions indispensables à connaître sur les circuits électriques
+## 1. Rappel des acquis de seconde
 
 
-### Rappels exhaustif
+### Les notions indispensables à connaître sur les circuits électriques
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ty8KU1BSG6A?si=eW8wSkRfDtB2kf5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Attention à 15:00 le sens des flèches de tension $U_L$ et $U_M$ est faux. Les flèches devraient être dans l'autre sens (c'est-à-dire en convention récepteur) pour avoir $U_G=U_L=U_M$. Le schéma à 15:00 devait être le même que celui à 16:00.
+Attention: Le schéma à 15:00 devait être le même que celui à 16:00 car à 15:00 le sens des flèches de tension $U_L$ et $U_M$ est faux. Les flèches devraient être dans l'autre sens (c'est-à-dire en convention récepteur) pour avoir $U_G=U_L=U_M$. 
 
 
-### Convention récepteur ou générateur
+### Convention récepteur ou générateur et loi d'Ohm
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eksX_Ennf3o?si=6cy3hQ3rK4s5vkY5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -22,6 +22,10 @@ Attention à 15:00 le sens des flèches de tension $U_L$ et $U_M$ est faux. Les 
 ### Approfondir la loi des mailles
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EqXvT4KUEEU?si=5RZVHAVjxLCvfqog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Petit exercice pour réviser les bases
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cxQVkFKJwyk?si=D7xyb_h-x4E8ZKZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## 2. Intensité du courant électrique
