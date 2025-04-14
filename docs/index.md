@@ -3,6 +3,12 @@
 
 
 
+
+!!! tip
+    L'icône représentant 3 traits horizontaux permet d'accéder au menu.
+
+{#
+
 !!! abstract ":star: Actualités :star:"
     - Bonne rentrée à toutes et à tous !   
 
@@ -15,3 +21,4 @@
     - Utilisez un identifiant tout en minuscules composé de votre prénom et des 3 premières lettres de votre nom. Par exemple, si vous vous appelez Louis de Funès vous mettrez "louisdef".
     - Surtout ne pas utiliser le code d'inscription plus d'une fois (pour ne pas créer plusieurs comptes). Mais, si vous pensez que votre inscription n'a pas fonctionné (ou pour tout autre problème),  n’hésitez pas à me  contacter par messagerie Atrium.  
 
+#}
