@@ -1,4 +1,4 @@
-# Énergie électrique
+# Chapitre 14:Énergie électrique
 
 
 ## 1. Rappels sur les notions indispensables à connaître sur les circuits électriques
