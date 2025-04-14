@@ -12,11 +12,11 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eksX_Ennf3o?si=6cy3hQ3rK4s5vkY5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Loi des nœuds
+### Approfondir la loi des nœuds
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t16XYOaqmq8?si=RNXkj7hpDNYb_g9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Loi des mailles
+### Approfondir la loi des mailles
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EqXvT4KUEEU?si=5RZVHAVjxLCvfqog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -27,7 +27,11 @@
 
 ## 3. Source réelle de tension
 
+### Principe théorique
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H4uUZ9RrHKs?si=c8bZOEUaew6_mQLn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
+
+### Exemple pratique
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pp5UoeRdmOc?si=sCQ05XqLDZ7uEmFt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
