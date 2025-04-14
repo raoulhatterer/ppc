@@ -1,4 +1,4 @@
-# Chapitre 14:Énergie électrique
+# Chapitre 14: Énergie électrique
 
 
 ## 1. Rappel des acquis de seconde
@@ -15,11 +15,11 @@ Attention: Le schéma à 15:00 devait être le même que celui à 16:00 car à 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eksX_Ennf3o?si=6cy3hQ3rK4s5vkY5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Approfondir la loi des nœuds
+### Réviser la loi des nœuds
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t16XYOaqmq8?si=RNXkj7hpDNYb_g9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Approfondir la loi des mailles
+### Réviser la loi des mailles
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EqXvT4KUEEU?si=5RZVHAVjxLCvfqog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
