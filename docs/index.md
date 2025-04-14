@@ -7,6 +7,13 @@
 !!! tip
     L'icône représentant 3 traits horizontaux permet d'accéder au menu.
 
+!!! success "Consignes"
+    - Cours: Veillez à toujours avoir imprimé le chapitre suivant à l'avance ainsi lorsque l'on passera à un nouveau chapitre vous l'aurez à votre disposition.
+    - TP: Terminez systématiquement de rédiger le dernier TP qui a eu lieu et préparez le suivant pour la prochaine séance de TP. 
+    - Vidéos: À visionner en accompagnement de l'étude des différents chapitres.
+
+
+
 {#
 
 !!! abstract ":star: Actualités :star:"
