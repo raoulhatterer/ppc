@@ -7,7 +7,7 @@
 
 
 
-!!! example "{{ exercice() }} : Bilan de matière (ex 23 page 63)"
+!!! example "{{ exercice() }} : Bilan de matière"
     === "Énoncé"
         1. Compléter le code suivant dans Capytale (**Code :** 2787-6384519)
            ```python  linenums="1"
@@ -50,15 +50,11 @@
             6. Double affectation pour les réactifs restants.
             7. Double affectation pour les produits formés.
 
-
-
         2. Utiliser le programme précédent pour résoudre l'exercice suivant:
-        ![ex9p59](data/ex9p59.png){ width="60%" }
-
-
+           ![ex9p59](data/ex9p59.png){ width="50%" }
 
     === "Correction"
-        1. Code source:
+        1. Code source (ex 23 page 63):
         ``` python  linenums="1"
         ## Bilan de matière
         print("Équation de la réaction : aA + bB -> cC + dD")
@@ -115,3 +111,55 @@
 
 
     
+!!! example "{{ exercice() }} : Titrage"
+    === "Énoncé"
+        1. Compléter le code suivant dans Capytale (**Code :** df61-6385666)
+           ```python  linenums="1"
+           ## Titrage
+           print("Titrage de  A par B : aA + bB -> cC +dD")
+           print("Entrez les valeurs des nombres stœchiométriques a et b")
+           a = float(input("a = "))
+           b = float(input("b = "))
+           print("Entrez des volumes en mL et la concentration CB en mol/L")
+           VA = ... # à vous
+           VE = ... # à vous
+           CB = ... # à vous
+           # Calcul de CA
+           CA = ... # à vous
+           print(f"Concentration CA = {CA} mol/L")
+           ```
+           
+        2. Utiliser le programme précédent pour résoudre l'exercice suivant:
+           ![ex6p74](data/ex6p74.png){ width="50%" }
+
+    === "Correction"
+        1. Code source (ex 13 page 75):
+        ``` python  linenums="1"
+        ## Titrage
+        print("Titrage de  A par B : aA + bB -> cC +dD")
+        print("Entrez les valeurs des nombres stœchiométriques a et b")
+        a = float(input("a = "))
+        b = float(input("b = "))
+        print("Entrez des volumes en mL et la concentration CB en mol/L")
+        VA = float(input("VA = "))
+        VE = float(input("VE = "))
+        CB = float(input("CB = "))
+        CA = (a/b)*(CB*VE/VA)
+        print(f"Concentration CA = {CA} mol/L")
+        ```
+        2. Exemple
+        ```pycon
+        Titrage de  A par B : aA + bB -> cC + dD
+        Entrez les valeurs des nombres stœchiométriques a et b
+        a = 1
+        b = 3
+        Entrez des volumes en mL et la concentration CB en mol/L
+        VA = 10
+        VE = 13.8
+        CB = 0.0025
+        Concentration CA = 0.00115 mol/L
+        ```
+
+
+           
+

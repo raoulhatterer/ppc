@@ -109,12 +109,13 @@
     - [⚛️TP17 Les réactions d'oxydoréduction](data/TP17 Redox  eleves.pdf){:target="_blank"}    
     - [⚛️TP17 bis D’autres réactions d'oxydoréduction](data/TP17bis Reactions redox eleves.pdf){:target="_blank"}    
     - [⚛️TP18 Avancement](data/TP18 Avancement eleves.pdf){:target="_blank"}        
-
+    - [🐍 Bilan de matière](python.md)
  
 ??? abstract "Chapitre 13: Avancement et titrage"
     - [📚Chapitre XIII](data/Chapitre XIII cours eleves.pdf){:target="_blank"}
     - [⚛️TP19 Retrouver le titre d'une solution](data/TP19 Titrage eleves.pdf){:target="_blank"}    
     - [⚛️TP20 Titrage Lugol diiode](data/TP20 Titrage diiode Lugol eleve.pdf){:target="_blank"}    
+    - [🐍 Titrage](python.md)
 
  
 ??? abstract "Chapitre 14: Énergie électrique"
