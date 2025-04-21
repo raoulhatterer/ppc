@@ -5,14 +5,16 @@
 
 
 
+
+
 !!! example "{{ exercice() }} : Bilan de matière (ex 23 page 63)"
     === "Énoncé"
         1. Compléter le code suivant dans Capytale (**Code :** 2787-6384519)
-           ``` python  linenums="1"
+           ```python  linenums="1"
            ## Bilan de matière
            print("Équation de la réaction : aA + bB -> cC + dD")
            print("Entrez les valeurs des nombres stochiométriques:")
-           a = float(input("a = "))
+           a = float(input("a = ")) # (1)
            b = ... # à vous
            c = ... # à vous
            d = ... # à vous
@@ -20,27 +22,33 @@
            nA = float(input("n0(A) = "))
            nB = float(input("n0(B) = "))
            # Détermination de xmax et du réactif limitant
-           xmaxA, xmaxB = nA / a, nB / b
-           if xmaxA == xmaxB:
+           xmaxA, xmaxB = nA / a, nB / b # (2)
+           if xmaxA == xmaxB: # (3)
                print("Le mélange est stoichiométrique")
                xmax = xmaxA
            elif xmaxA < xmaxB:
                print("...  est le réactif limitant") # à vous
-               xmax = xmaxA
+               xmax = xmaxA # (4) 
            else:
                print("...  est le réactif limitant") # à vous
-               xmax = xmaxB
+               xmax = xmaxB # (5)
            print(f"xmax = {xmax} mol")
            # Détemination des quantités de matière à l'état final        
-           nfA, nfB = nA - a * xmax, nB - b * xmax
-           nfC, nfD = c * xmax, d * xmax
+           nfA, nfB = nA - a * xmax, nB - b * xmax # (6) 
+           nfC, nfD = c * xmax, d * xmax # (7)
            print("Quantités de matière à l'état final")
            print(f"nf(A) = {nfA} mol")
            print(f"nf(B) = {nfB} mol")
            print(f"nf(C) = {nfC} mol")
            print(f"nf(D) = {nfD} mol")
-           ```        
-
+           ```
+            1. La fonction `input()` renvoie la chaîne de caractère saisie par l'utilisateur (par exemple la chaîne `"1"`) . Ensuite la chaîne peut être convertie en entier avec la fonction `int()` (soit pour l'exemple, l'entier `1`) ou en réel avec la fonction `float()` comme c'est le cas ici (soit pour l'exemple, le flottant `1.0`).
+            2. Réalisation d'une double affectation en une seule ligne. À la place, on aurait pu écrire `xmaxA = nA / a` sur une ligne et sur la ligne suivante on aurait écrit `xmaxB = nB / b`.
+            3. En python le symbole d'égalité n'est pas `=` mais `==` car en python le signe égal est utilisé pour les affectations. Une affectation ressemble parfois à une égalité ; par exemple si l'on écrit `x = 5`. Mais, ce n'en est pas une, comme on le voit quand on écrit `x = x+1` qui n'a pas le sens mathématique d'égalité, mais le sens informatique d'affectation conduisant ici à `x = 6`. 
+            4. Ceci n'est pas une égalité, c'est une affectation.
+            5. Ceci n'est pas une égalité, c'est une affectation.
+            6. Double affectation pour les réactifs restants.
+            7. Double affectation pour les produits formés.
 
 
 
