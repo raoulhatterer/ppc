@@ -53,7 +53,7 @@
 
 
         2. Utiliser le programme précédent pour résoudre l'exercice suivant:
-        ![ex9p59](data/ex9p59.png){ width="50%" }
+        ![ex9p59](data/ex9p59.png){ width="75%" }
 
 
 
