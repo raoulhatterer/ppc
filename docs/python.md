@@ -7,42 +7,43 @@
 
 !!! example "{{ exercice() }} : Bilan de matière (ex 23 page 63)"
     === "Énoncé"
-        1. Compléter le code suivant:
-        ``` python  linenums="1"
-        ## Bilan de matière
-        print("Équation de la réaction : aA + bB -> cC + dD")
-        print("Entrez les valeurs des nombres stochiométriques:")
-        a = float(input("a = "))
-        b = ... # à vous
-        c = ... # à vous
-        d = ... # à vous
-        print("Entrez les quantités initiales de réactifs A et B en mol")
-        nA = float(input("n0(A) = "))
-        nB = float(input("n0(B) = "))
-        # Détermination de xmax et du réactif limitant
-        xmaxA, xmaxB = nA / a, nB / b
-        if xmaxA == xmaxB:
-            print("Le mélange est stoichiométrique")
-            xmax = xmaxA
-        elif xmaxA < xmaxB:
-            print("...  est le réactif limitant") # à vous
-            xmax = xmaxA
-        else:
-            print("...  est le réactif limitant") # à vous
-            xmax = xmaxB
-        print(f"xmax = {xmax} mol")
-        # Détemination des quantités de matière à l'état final        
-        nfA, nfB = nA - a * xmax, nB - b * xmax
-        nfC, nfD = c * xmax, d * xmax
-        print("Quantités de matière à l'état final")
-        print(f"nf(A) = {nfA} mol")
-        print(f"nf(B) = {nfB} mol")
-        print(f"nf(C) = {nfC} mol")
-        print(f"nf(D) = {nfD} mol")
-        ```        
-        
-        **Code Capytale:** 2787-6384519
-        
+        1. Compléter le code suivant dans Capytale (**Code :** 2787-6384519)
+           ``` python  linenums="1"
+           ## Bilan de matière
+           print("Équation de la réaction : aA + bB -> cC + dD")
+           print("Entrez les valeurs des nombres stochiométriques:")
+           a = float(input("a = "))
+           b = ... # à vous
+           c = ... # à vous
+           d = ... # à vous
+           print("Entrez les quantités initiales de réactifs A et B en mol")
+           nA = float(input("n0(A) = "))
+           nB = float(input("n0(B) = "))
+           # Détermination de xmax et du réactif limitant
+           xmaxA, xmaxB = nA / a, nB / b
+           if xmaxA == xmaxB:
+               print("Le mélange est stoichiométrique")
+               xmax = xmaxA
+           elif xmaxA < xmaxB:
+               print("...  est le réactif limitant") # à vous
+               xmax = xmaxA
+           else:
+               print("...  est le réactif limitant") # à vous
+               xmax = xmaxB
+           print(f"xmax = {xmax} mol")
+           # Détemination des quantités de matière à l'état final        
+           nfA, nfB = nA - a * xmax, nB - b * xmax
+           nfC, nfD = c * xmax, d * xmax
+           print("Quantités de matière à l'état final")
+           print(f"nf(A) = {nfA} mol")
+           print(f"nf(B) = {nfB} mol")
+           print(f"nf(C) = {nfC} mol")
+           print(f"nf(D) = {nfD} mol")
+           ```        
+
+
+
+
         2. Utiliser le programme précédent pour résoudre l'exercice suivant:
         ![ex9p59](data/ex9p59.png){ width="50%" }
 
