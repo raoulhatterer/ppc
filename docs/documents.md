@@ -57,6 +57,12 @@
     - [Fiche méthode Atelier Scientifique pour la relation de conjugaison](data/Fiche methode Atelier Scientifique pour la relation de conjugaison.pdf){:target="_blank"}
     - [⚛️TP6 Relation de conjugaison](data/TP06 Hyperm-rel-de-conjug-eleve.pdf){:target="_blank"}
     - [⚛️TP7 Mise au point](data/TP07 Mise au point eleve.pdf){:target="_blank"}
+    ??? question "Exercices du livre (pages 314 à 319)" 
+        ![page 114](data/p314.png)
+        ![page 115](data/p315.png)
+        ![page 116](data/p316.png)
+        ![page 112](data/p317.png)
+        ![page 113](data/p319.png)
 
 
 
