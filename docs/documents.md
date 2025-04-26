@@ -69,6 +69,12 @@
 ??? abstract "Chapitre 5: Couleur d'un objet"
     - [📚Chapitre V](data/Chapitre V cours eleve.pdf){:target="_blank"}
     - [⚛️TP8 Synthèse couleur](data/TP08 Synthese couleur eleve.pdf){:target="_blank"}
+    ??? question "Exercices du livre (pages 330 à 334)" 
+        ![page 114](data/p330.png)
+        ![page 115](data/p331.png)
+        ![page 116](data/p332.png)
+        ![page 112](data/p333.png)
+        ![page 113](data/p334.png)
 
  
 ??? abstract "Chapitre 6: La lumière"
