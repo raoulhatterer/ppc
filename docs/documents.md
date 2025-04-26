@@ -106,6 +106,12 @@
     - [📚Chapitre VIII](data/Chapitre VIII cours eleves.pdf){:target="_blank"}
     - [⚛️TP11 Synthèse du paracetamol](data/TP11 Synthese du paracetamol eleve.pdf      ){:target="_blank"}
     - [⚛️TP12 Identification du paracetamol](data/TP12 Identification du paracetamol eleve.pdf){:target="_blank"}
+    ??? question "Exercices du livre (pages 148 à 152)" 
+        ![page 148](data/p148.png) 
+        ![page 149](data/p149.png)
+        ![page 150](data/p150.png)
+        ![page 151](data/p151.png)
+        ![page 152](data/p152.png)
     
 ??? abstract "Chapitre 9: Interactions gravitationnelles et électriques"
     - [📚Chapitre IX](data/Chapitre IX cours champs eleve.pdf){:target="_blank"}
