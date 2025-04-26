@@ -3,7 +3,7 @@
 
 !!! success "Consignes"
     - Cours: Veillez à toujours avoir imprimé le chapitre suivant à l'avance ainsi lorsque l'on passera à un nouveau chapitre vous l'aurez à votre disposition.
-    - TP: Terminez systématiquement de rédiger le dernier TP qui a eu lieu et préparez le suivant pour la prochaine séance de TP. 
+    - Travaux Pratiques: Terminez systématiquement de rédiger le dernier TP qui a eu lieu et préparez le suivant pour la prochaine séance de TP. 
 
 
 {# écrire `cache/` ou `data/` pour cacher ou non un fichier #} 
