@@ -58,11 +58,11 @@
     - [⚛️TP6 Relation de conjugaison](data/TP06 Hyperm-rel-de-conjug-eleve.pdf){:target="_blank"}
     - [⚛️TP7 Mise au point](data/TP07 Mise au point eleve.pdf){:target="_blank"}
     ??? question "Exercices du livre (pages 314 à 319)" 
-        ![page 114](data/p314.png)
-        ![page 115](data/p315.png)
-        ![page 116](data/p316.png)
-        ![page 112](data/p317.png)
-        ![page 113](data/p319.png)
+        ![page 314](data/p314.png)
+        ![page 315](data/p315.png)
+        ![page 316](data/p316.png)
+        ![page 317](data/p317.png)
+        ![page 319](data/p319.png)
 
 
 
@@ -70,20 +70,36 @@
     - [📚Chapitre V](data/Chapitre V cours eleve.pdf){:target="_blank"}
     - [⚛️TP8 Synthèse couleur](data/TP08 Synthese couleur eleve.pdf){:target="_blank"}
     ??? question "Exercices du livre (pages 330 à 334)" 
-        ![page 114](data/p330.png)
-        ![page 115](data/p331.png)
-        ![page 116](data/p332.png)
-        ![page 112](data/p333.png)
-        ![page 113](data/p334.png)
+        ![page 330](data/p330.png)
+        ![page 331](data/p331.png)
+        ![page 332](data/p332.png)
+        ![page 333](data/p333.png)
+        ![page 334](data/p334.png)
 
  
 ??? abstract "Chapitre 6: La lumière"
     - [📚Chapitre VI](data/Chapitre VI cours Photon eleve.pdf){:target="_blank"}
     - [⚛️TP9 La lampe à vapeur de mercure](data/TP09 Lampe Hg photon energie eleve.pdf){:target="_blank"}
- 
+    ??? question "Exercices du livre (pages 346 à 352)" 
+        ![page 346](data/p346.png)
+        ![page 347](data/p347.png)
+        ![page 348](data/p348.png) 
+        ![page 349](data/p349.png)
+        ![page 350](data/p350.png)
+        ![page 351](data/p351.png)
+        ![page 352](data/p352.png)
+         
+         
+         
 ??? abstract "Chapitre 7: Structure des composés organiques"
     - [📚Chapitre VII](data/Chapitre VII cours eleve.pdf){:target="_blank"}
     - [⚛️TP10 Identification de molécules](data/TP10 Spectres IR eleve.pdf){:target="_blank"}
+    ??? question "Exercices du livre (pages 130 à 134)" 
+        ![page 130](data/p130.png)
+        ![page 131](data/p131.png)
+        ![page 132](data/p132.png)
+        ![page 133](data/p133.png)
+        ![page 134](data/p134.png)
  
  
 ??? abstract "Chapitre 8: Synthèse de composés organiques"
