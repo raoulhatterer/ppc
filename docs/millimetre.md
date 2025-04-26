@@ -1,3 +1,5 @@
 # Papier millimétré
 
-![](data/millimetreNB.pdf){.center width=50%}
+!!! abstract ""
+
+    ![](data/millimetreNB.pdf){.center width=100%}

@@ -1,3 +1,5 @@
 # Tableau périodique
 
-![](data/tableau_periodique.pdf){.center width=50%}
+!!! abstract ""
+
+    ![](data/tableau_periodique.pdf){.center width=100%}
