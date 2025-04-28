@@ -117,10 +117,28 @@
     - [📚Chapitre IX](data/Chapitre IX cours champs eleve.pdf){:target="_blank"}
     - [Activité documentaire sur la notion de champs](data/AD Chapitre IX intro Champs.pdf){:target="_blank"}
     - [⚛️TP13 Champ électrique](data/TP13 Champ electrique eleve.pdf){:target="_blank"}    
- 
+    ??? question "Exercices du livre (pages 184 à 190)"
+        ![page 184](data/p184.png)
+        ![page 185](data/p185.png)
+        ![page 186](data/p186.png)
+        ![page 187](data/p187.png)
+        ![page 188](data/p188.png)
+        ![page 189](data/p189.png)
+        ![page 190](data/p190.png)
+
+
+
 ??? abstract "Chapitre 10: Mouvement"
     - [📚Chapitre X](data/Chapitre X cours mouvements eleves.pdf){:target="_blank"}
     - [⚛️TP14 Mouvements](data/TP14 Mouvement eleves.pdf){:target="_blank"}    
+    ??? question "Exercices du livre (pages 224 à 230)"
+        ![page 224](data/p224.png)
+        ![page 225](data/p225.png)
+        ![page 226](data/p226.png)
+        ![page 227](data/p227.png)
+        ![page 228](data/p228.png)
+        ![page 229](data/p229.png)
+        ![page 230](data/p230.png)
     
 ??? abstract "Chapitre 11: Énergie mécanique"
     - [📚Chapitre XI](data/Chapitre XI cours EmEcEpp eleves.pdf){:target="_blank"}
@@ -144,13 +162,36 @@
     - [⚛️TP17 bis D’autres réactions d'oxydoréduction](data/TP17bis Reactions redox eleves.pdf){:target="_blank"}    
     - [⚛️TP18 Avancement](data/TP18 Avancement eleves.pdf){:target="_blank"}        
     - [🐍 Bilan de matière](python.md)
+    ??? question "Exercices du livre (pages 42 à 47) & (pages 56 à 62)"
+        ![page 42](data/p42.png)
+        ![page 43](data/p43.png)
+        ![page 44](data/p44.png)
+        ![page 45](data/p45.png)
+        ![page 46](data/p46.png)
+        ![page 47](data/p47.png)
+        ![page 56](data/p56.png)
+        ![page 57](data/p57.png)
+        ![page 58](data/p58.png)
+        ![page 59](data/p59.png)
+        ![page 60](data/p60.png)
+        ![page 61](data/p61.png)
+        ![page 62](data/p62.png)
+ 
+ 
  
 ??? abstract "Chapitre 13: Avancement et titrage"
     - [📚Chapitre XIII](data/Chapitre XIII cours eleves.pdf){:target="_blank"}
     - [⚛️TP19 Retrouver le titre d'une solution](data/TP19 Titrage eleves.pdf){:target="_blank"}    
     - [⚛️TP20 Titrage Lugol diiode](data/TP20 Titrage diiode Lugol eleve.pdf){:target="_blank"}    
     - [🐍 Titrage](python.md)
-
+    ??? question "Exercices du livre (pages 73 à 76)"
+        ![page 73](data/p73.png)
+        ![page 74](data/p74.png)
+        ![page 75](data/p75.png)
+        ![page 76](data/p76.png)
+        ![page 77](data/p77.png)
+        ![page 76](data/p76.png)
+ 
  
 ??? abstract "Chapitre 14: Énergie électrique"
     - [📚Chapitre XIV](data/Chapitre XIV cours energie electrique eleves.pdf){:target="_blank"}
