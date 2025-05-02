@@ -163,3 +163,39 @@
 
            
 
+!!! example "{{ exercice() }} : Bilan de puissance et Rendement électrique"
+    === "Énoncé"
+        1. Pour réaliser le bilan de puissance d'une source de tension continue, un élève écrit une fonction  en langage Python. D'après le programme, par quel type de source de tension, la source est-elle modélisée ?
+           ```python  linenums="1"
+           ## Bilan de puissance et rendement
+           def BILAN_PUISSANCES(E,r,I) :
+               U = E-r*I
+               Pj = r*I**2
+               Pa = E*I
+               Pu = U*I
+               print("La puissance chimique absorbée en entrée vaut Pa =",Pa,"W. \n")
+               print("La puissance dissipée par effet Joule vaut Pjoule = ",Pj,"W. \n")
+               print("La puissance électrique utile en sortie vaut Pu = ",Pu,"W. \n")
+               rendement = ... à vous
+               print ... à vous
+           ``` 
+        2. Identifier les lignes de programme qui permettent de calculer les puissances nécessaires au calcul du rendement de la source de tension.
+        3. Compléter ce programme pour que la fonction calcule et affiche le rendement de la source de tension. Compléter le code  dans Capytale (**Code :** 6e56-6486645)
+        4. Utiliser le programme précédent pour résoudre l'exercice 19 page 250:
+           ![ex19p250](data/p250.png){ width="50%" }
+        
+    === "Correction"{#
+        1. Code source (ex 18 page 250):
+        ``` python  linenums="1"
+        ## Bilan de puissance et rendement
+        def BILAN_PUISSANCES(E,r,I) :
+            U = E-r*I
+            Pj = r*I**2
+            Pa = E*I
+            Pu = U*I
+            print("La puissance chimique absorbée en entrée vaut Pa =",Pa,"W. \n")
+            print("La puissance dissipée par effet Joule vaut Pjoule = ",Pj,"W. \n")
+            print("La puissance électrique utile en sortie vaut Pu = ",Pu,"W. \n")
+            rendement = Pu/Pa
+            print("Le rendement vaut: ",rendement,".\n")
+        ```  #}

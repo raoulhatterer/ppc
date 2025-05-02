@@ -197,6 +197,7 @@
     - [📚Chapitre XIV](data/Chapitre XIV cours energie electrique eleves.pdf){:target="_blank"}
     - [⚛️TP21 Modélisation d'un panneau photovoltaïque](data/TP21 Photovoltaique partie1 eleves.pdf){:target="_blank"}    
     - [⚛️TP21 bis Rendement d'un panneau photovoltaïque](data/TP21bis Photovoltaique partie2 rendement eleves.pdf){:target="_blank"}    
+    - [🐍 Bilan de puissance et rendement](python.md)    
     ??? question "Exercices du livre (pages 246 à 252)"
         ![page 246](data/p246.png)
         ![page 247](data/p247.png)
