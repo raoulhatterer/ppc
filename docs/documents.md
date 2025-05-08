@@ -209,7 +209,7 @@
 
  
 ??? abstract "Chapitre 15: Les ondes"
-    - [📚Chapitre XV](data/Chapitre XV cours ondes eleves.pdf){:target="_blank"}
+    - [📚Chapitre XV (diaporama)](data/Chapitre XV cours ondes eleves.pdf){:target="_blank"}
     - [⚛️TP22 Les ultrasons](data/TP22 Ondes mecaniques ultrasons eleves.pdf){:target="_blank"}    
     ??? question "Exercices du livre (pages 294 à 300)"
         ![page 294](data/p294.png)
