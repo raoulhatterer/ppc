@@ -199,3 +199,8 @@
             rendement = Pu/Pa
             print("Le rendement vaut: ",rendement,".\n")
         ```  #}
+
+
+!!! example "{{ exercice() }} : Simulation de la propagation d'une onde"
+    === "Énoncé"
+        Exercice 28 page 299 (Capytale c621-6680926)
