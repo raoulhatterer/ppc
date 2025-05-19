@@ -211,6 +211,7 @@
 ??? abstract "Chapitre 15: Les ondes"
     - [📚Chapitre XV (diaporama)](data/Chapitre XV cours ondes eleves.pdf){:target="_blank"}
     - [⚛️TP22 Les ultrasons](data/TP22 Ondes mecaniques ultrasons eleves.pdf){:target="_blank"}    
+    - [🐍 Simulation de la propagation d'une onde](python.md)     
     ??? question "Exercices du livre (pages 294 à 300)"
         ![page 294](data/p294.png)
         ![page 295](data/p295.png)
