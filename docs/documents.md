@@ -104,7 +104,7 @@
  
 ??? abstract "Chapitre 8: Synthèse de composés organiques"
     - [📚Chapitre VIII](data/Chapitre VIII cours eleves.pdf){:target="_blank"}
-    - [⚛️TP11 Synthèse du paracetamol](data/TP11 Synthese du paracetamol eleve.pdf      ){:target="_blank"}
+    - [⚛️TP11 Synthèse du paracetamol](data/TP11 new Synthese du paracetamol eleve.pdf){:target="_blank"}
     - [⚛️TP12 Identification du paracetamol](data/TP12 Identification du paracetamol eleve.pdf){:target="_blank"}
     ??? question "Exercices du livre (pages 148 à 152)" 
         ![page 148](data/p148.png) 
@@ -181,7 +181,7 @@
  
 ??? abstract "Chapitre 13: Avancement et titrage"
     - [📚Chapitre XIII](data/Chapitre XIII cours eleves.pdf){:target="_blank"}
-    - [⚛️TP19 Retrouver le titre d'une solution](data/TP19 Titrage eleves.pdf){:target="_blank"}    
+    - [⚛️TP19 Retrouver le titre d'une solution](data/TP19 new Titrage eleves.pdf){:target="_blank"}    
     - [⚛️TP20 Titrage Lugol diiode](data/TP20 Titrage diiode Lugol eleve.pdf){:target="_blank"}    
     - [🐍 Titrage](python.md)
     ??? question "Exercices du livre (pages 73 à 76)"
